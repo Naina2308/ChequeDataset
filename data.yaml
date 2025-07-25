@@ -1,0 +1,17 @@
+path: ./ChequeDataset
+train: images
+val: images
+
+nc: 11
+names:
+  - IssueBank
+  - ReceiverName
+  - AcNo
+  - Amt
+  - ChqNo
+  - DateIss
+  - Sign
+  - MICRCode
+  - IFSCCode
+  - AmtinWords
+  - BranchAdd
